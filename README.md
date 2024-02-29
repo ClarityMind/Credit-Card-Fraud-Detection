@@ -4,7 +4,7 @@ This project implements an autoencoder neural network for detecting fraud in cre
 
 ## Setup
 - Python 3.x
-- Required packages: pandas, numpy, matplotlib, scipy, tensorflow, seaborn, scikit-learn, keras
+- Required packages: pandas, numpy, matplotlib, seaborn, scikit-learn, keras
 
 ## Usage
 1. Install the required packages using pip install -r requirements.txt.
